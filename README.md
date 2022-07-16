@@ -1,8 +1,25 @@
 - 👋 Hi, I’m Jacob Collins, @collinsjacob127
-- 👀 I’m interested in Data Science and Programming
-- 🌱 I’m currently learning about Data Structures and Algorithms, but I'm excited to learn more!
-- 💞️ I’m not really looking to collaberate on anything right now.
-- 📫 You can reach me at collinsjacob127@gmail.com :)
+- 👀 Interested in Machine Learning and Robotics.
+- 🌱 Third year of my CSCI undergrad at CSU Chico
+- 🧠 Outside of classes
+     Currently practicing:
+        - Rust (https://rust-unofficial.github.io/too-many-lists/)
+        - VIM
+        - Unsupervised ML (Hands-On Unsupervised Learning Using Python by Ankur Patel)
+     Projects I've Finished:
+        From scratch (only libraries is Numpy and the source data):
+        - Handwritten Number Recognition CNN - **Python**
+        - NPL Predictions of negative/positive connotation of words - **Python**
+        - NPL Shakespeare sonnet generator - **Python**
+- 🎓 CSCI-Related Coursework:
+        - CSCI-21 (Data Structures & Algorithms in **C++**)
+        - CSCI-20 (Programming & Algorithms in **GoLang**)
+        - CSCI-10 (Computer Architecture, **High-Level Assembly/HLA**)
+        - CSCI-2  (Business & Computer Information Systems)
+        - MATH-31 (Calc II, Analytic Geometry)
+        - CALC 2
+- 💞️ Open to collaborations with anyone who has a good idea and is interested in Machine Learning :)
+- 📫 You can reach me at collinsjacob127@gmail.com
 
 <!---
 collinsjacob127/collinsjacob127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
