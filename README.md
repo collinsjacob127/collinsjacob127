@@ -8,7 +8,7 @@ From scratch (only libraries are Numpy and the source data):
    - NPL Predictions of negative/positive connotation of words - **Python**
    - NPL Shakespeare sonnet generator - **Python**
 ## Currently practicing:
-   - Rust (collinsjacob127/Rust)
+   - Rust ([collinsjacob127/Rust](https://github.com/collinsjacob127/Rust) [Rust Guide](https://rust-unofficial.github.io/too-many-lists/index.html))
    - VIM
    - Unsupervised ML (Hands-On Unsupervised Learning Using Python by Ankur Patel)
 ## CSCI-Related Coursework:
