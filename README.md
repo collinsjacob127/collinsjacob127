@@ -1,7 +1,7 @@
 # Jacob Collins
 - Interests: **Machine Learning and Robotics.**
 - Education: Third year of my CSCI undergrad at CSU Chico
-- Languages: Python, C++, Golang, HLA, Rust
+- Languages: **Python, Rust,** C++, Golang, HLA, C#
 ## Projects I've Finished:
 From scratch (only libraries are Numpy and the source data):
    - Number Recognition CNN - **Python**
