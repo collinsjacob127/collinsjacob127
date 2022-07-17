@@ -4,7 +4,7 @@
 - Languages: Python, C++, Golang, HLA, Rust
 ## Projects I've Finished:
 From scratch (only libraries are Numpy and the source data):
-   - Handwritten Number Recognition CNN - **Python**
+   - Number Recognition CNN - **Python**
    - NPL Predictions of negative/positive connotation of words - **Python**
    - NPL Shakespeare sonnet generator - **Python**
 ## Currently practicing:
