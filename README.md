@@ -8,18 +8,21 @@ From scratch (only libraries are Numpy and the source data):
    - NPL Predictions of negative/positive connotation of words - **Python**
    - NPL Shakespeare sonnet generator - **Python**
 ## Currently practicing:
-   - Rust ([collinsjacob127/Rust_Data_Structures](https://github.com/collinsjacob127/Rust_Data_Structures) | [Rust Guide](https://rust-unofficial.github.io/too-many-lists/index.html))
-   - VIM
+   - [Rust](https://github.com/collinsjacob127/Rust_Data_Structures)
    - Unsupervised ML (Hands-On Unsupervised Learning Using Python by Ankur Patel)
-## CSCI-Related Coursework:
-   - CSCI-21 (Data Structures & Algorithms in **C++**)
-   - CSCI-20 (Programming & Algorithms in **Golang**)
-   - CSCI-10 (Computer Architecture, **High-Level Assembly/HLA**)
-   - CSCI-2  (Business & Computer Information Systems)
-   - MATH-31 (Calc II, Analytic Geometry)
-   - CALC 2
+# Related Coursework:
+   ### Completed
+   - CSCI-211 (Data Structures & Algorithms in **C++**)
+   - CSCI-221 (Computer Architecture, **High-Level Assembly/HLA**)
+   - CSCI-111 (Programming & Algorithms in **Golang**)
+   - MATH-121 (Calc II, Analytic Geometry)
+   ### In Progress
+   - EECE-446 (Computer Networks)
+   - MATH-217 (Discrete Mathematics)
+   - CINS-370 (Databases)
+---
 ### Contact Me
--  I'm gladly open to collaborations with anyone who has a good idea and is interested in Machine Learning :)
+-  I'm open to collaborations with anyone who has a good idea and is interested in Machine Learning :)
 -  You can reach me at collinsjacob127@gmail.com
 
 <!---
