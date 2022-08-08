@@ -5,8 +5,7 @@
 ## Projects I've Finished:
 From scratch (only libraries are Numpy and the source data):
    - Number Recognition CNN - **Python**
-   - NPL Predictions of negative/positive connotation of words - **Python**
-   - NPL Shakespeare sonnet generator - **Python**
+   - NPL Predictions of negative/positive connotation of words and phrases - **Python**
 ## Currently practicing:
    - [Rust](https://github.com/collinsjacob127/Rust_Data_Structures)
    - Unsupervised ML (Hands-On Unsupervised Learning Using Python by Ankur Patel)
