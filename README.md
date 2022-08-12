@@ -1,13 +1,13 @@
 # Jacob Collins
 - Interests: **Programming, Machine Learning, and Robotics.**
 - Education: Third year of my CSCI undergrad at CSU Chico
-- Languages: **Python, Rust,** C++, Golang, HLA, C#
+- Languages: **Python, Rust,** C++, Golang, HLA, C#, and of course HTML & CSS
 ## Past Projects:
    - Number Recognition CNN - **Python**
    - NPL Predictions of negative/positive connotation of words and phrases - **Python**
    - Rust Web Scraper
 ## Currently practicing:
-   - [Rust](https://github.com/collinsjacob127/Rust_Data_Structures)
+   - [Rust](https://github.com/collinsjacob127/Rust-Practice)
    - Unsupervised ML (Hands-On Unsupervised Learning Using Python by Ankur Patel)
 # Related Coursework:
    ### Completed
@@ -21,7 +21,7 @@
    - CINS-370 (Databases)
 ---
 ### Contact Me
--  I'm open to collaborations with anyone who has a good idea and is interested in Machine Learning :)
+-  I'm open to collaborations with anyone interested in Machine Learning, Rust, or anything they're passionate about that involves programming :)
 -  You can reach me at collinsjacob127@gmail.com
 
 <!---
