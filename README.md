@@ -5,7 +5,7 @@
 ## Past Projects:
    - Number Recognition CNN - **Python**
    - NPL Predictions of negative/positive connotation of words and phrases - **Python**
-   - Rust Web Scraper
+   - Web Scraper - **Rust**
 ## Currently practicing:
    - [Rust](https://github.com/collinsjacob127/Rust-Practice)
    - Unsupervised ML (Hands-On Unsupervised Learning Using Python by Ankur Patel)
