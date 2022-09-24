@@ -14,7 +14,6 @@
    - CSCI-211 (Data Structures & Algorithms in **C++**)
    - CSCI-221 (Computer Architecture, **High-Level Assembly/HLA**)
    - CSCI-111 (Programming & Algorithms in **Golang**)
-   - MATH-121 (Calc II, Analytic Geometry)
    ### In Progress
    - EECE-446 (Computer Networks)
    - MATH-217 (Discrete Mathematics)
@@ -22,7 +21,7 @@
 ---
 ### Contact Me
 -  I'm open to collaborations with anyone interested in Machine Learning, Rust, or anything they're passionate about that involves programming :)
--  You can reach me at collinsjacob127@gmail.com
+-  You can reach me at jbcollins@mail.csuchico.edu
 
 <!---
 collinsjacob127/collinsjacob127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
