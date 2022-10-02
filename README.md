@@ -1,7 +1,7 @@
 # Jacob Collins
 - Interests: **Machine Learning, Data Science, Automation, and Robotics.**
 - Education: Third year of my CSCI undergrad at CSU Chico
-- Languages: **Rust, Python,** C++, Golang, HLA, C#, and of course HTML & CSS
+- Languages: **C++, Rust, Python,** Golang, HLA, C#, and of course HTML & CSS
 ## Past Projects:
    - Number Recognition CNN - **Python**
    - NPL Predictions of negative/positive connotation of words and phrases - **Python**
