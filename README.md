@@ -2,13 +2,15 @@
 - Interests: **Machine Learning, Data Science, Automation, and Robotics.**
 - Education: Third year of my CSCI undergrad at CSU Chico
 - Languages: **C++, Rust, Python,** Golang, HLA, C#, and of course HTML & CSS
-## Past Projects:
+## Projects:
    - Number Recognition CNN - **Python**
    - NPL Predictions of negative/positive connotation of words and phrases - **Python**
    - Web Scraper - **Rust**
-## Currently practicing:
+   - Pokemon Team Optimizer
+## Current Studies:
    - [Rust](https://github.com/collinsjacob127/Rust-Practice)
    - Unsupervised ML (Hands-On Unsupervised Learning Using Python by Ankur Patel)
+   - Learning Path: Artificial Intelligence with Python
 # Related Coursework:
    ### Completed
    - CSCI-211 (Data Structures & Algorithms in **C++**)
