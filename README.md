@@ -1,5 +1,5 @@
 # Jacob Collins
-- Interests: **Machine Learning, Data Science, Automation, and Robotics.**
+- Interests: **Quantum Algorithms, Machine Learning, Data Science, and Graph Theory**
 - Education: Third year of my CSCI undergrad at CSU Chico
 - Languages: **C++, Rust, Python,** Golang, HLA, C#, and of course HTML & CSS
 ## Projects:
