@@ -1,21 +1,17 @@
 # Jacob Collins
-- Interests: **Data Science, Graph Theory, Quantum Algorithms, and Machine Learning**
+- Interests: **High-Performance Computing, Quantum Computing, Graph Theory, Data Science**
 - Education: Fourth year of my CSCI undergrad at CSU Chico
-- Languages: **C++, C, Rust, R, Python,** Golang, Assembly
+- Languages: **C/C++, Python, R, Rust,** Golang, OCaml, Assembly
 ## Projects:
-   - Client / Server Torrent Program - **C**
-   - Iterative Prisoner's Dilemma Simulation - **Python**
+   - Quantum Semiprime Factoring (IP) - **CudaQ**
    - Grover's Algorithm - **Qiskit**
-   - Number Recognition CNN - **Python**
-   - IMDB Sentiment Analysis - **Python**
-   - Web Scraper - **Rust**
+   - [Tetromino Versus](https://collinsjacob127.github.io/Tetramino-Versus/#/) - **GitHub Pages & Flutter**
+   - Client / Server Torrent Program (Private) - **C**
+   - Multithreaded DNS Resolver (Private) - **C**
+   - Iterative Prisoner's Dilemma Simulation - **Python**
 
 ---
 ### Contact Me
--  I'm open to collaborations with anyone interested in Machine Learning, Rust, or anything they're passionate about that involves programming :)
+-  I'm always open to collaboration, feel free to reach out any time!
 -  You can reach me at jbcollins@csuchico.edu
 
-<!---
-collinsjacob127/collinsjacob127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
