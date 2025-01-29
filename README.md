@@ -5,7 +5,7 @@
 ## Projects:
    - Quantum Semiprime Factoring (IP) - **CudaQ**
    - Grover's Algorithm - **Qiskit**
-   - [Tetromino Versus](https://collinsjacob127.github.io/Tetramino-Versus/#/) - **GitHub Pages & Flutter**
+   - [Tetromino Versus](https://collinsjacob127.github.io/Tetromino-Versus/#/) - **GitHub Pages & Flutter**
    - Client / Server Torrent Program (Private) - **C**
    - Multithreaded DNS Resolver (Private) - **C**
    - Iterative Prisoner's Dilemma Simulation - **Python**
