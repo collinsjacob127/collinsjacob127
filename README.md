@@ -3,7 +3,7 @@
 - Education: Fourth year of my CSCI undergrad at CSU Chico
 - Languages: **C/C++, Python, R, Rust,** Golang, OCaml, Assembly
 ## Projects:
-   - Quantum Semiprime Factoring (IP) - **CudaQ**
+   - Quantum Semiprime Factoring - **CUDA-Q**
    - Grover's Algorithm - **Qiskit**
    - [Tetromino Versus](https://collinsjacob127.github.io/Tetromino-Versus/#/) - **GitHub Pages & Flutter**
    - Client / Server Torrent Program (Private) - **C**
