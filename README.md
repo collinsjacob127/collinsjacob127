@@ -4,7 +4,7 @@
 - Languages: **C/C++, Python, R, Rust,** Golang, OCaml, Assembly
 
 ## Projects:
-   - Semiprime Factorization\* - **C, OpenMP**
+   - HPC Sieve of Eratosthenes\* - **C, OpenMP + MPI**
    - K-Means with K-D Trees\* - **C++**
    - [Iterative Prisoner's Dilemma Simulation](https://github.com/collinsjacob127/IterativePrisonersDilemma) - **Python**
    - [Quantum Semiprime Factorization](https://github.com/collinsjacob127/QuantumFactoring) - **CUDA-Q**
