@@ -1,5 +1,5 @@
 # Jacob Collins
-- Interests: **High-Performance Computing, Quantum Computing, Graph Theory, Data Science**
+- Interests: **High-Performance Computing, Network Science, Quantum Computing, Data Science**
 - Education: Fourth year of my CSCI undergrad at CSU Chico
 - Languages: **C/C++, Python, R, Rust,** Golang, OCaml, Assembly
 
