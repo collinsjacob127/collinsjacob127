@@ -18,3 +18,4 @@ I'm always open to collaboration, feel free to reach out any time!
 
 You can reach me at jbcollins@csuchico.edu
 
+[Here's my Resume](https://collinsjacob127.github.io/Jacob-Collins-Resume/Jacob%20Collins%20Resume.pdf)
