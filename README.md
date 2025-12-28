@@ -10,6 +10,7 @@
    - [Quantum Semiprime Factorization](https://github.com/collinsjacob127/QuantumFactoring) - **CUDA-Q**
    - Grover's Algorithm - **Qiskit**
    - [Tetromino Versus](https://collinsjacob127.github.io/Tetromino-Versus/#/) - **GitHub Pages & Flutter**
+   - [Goblin Colosseum](https://www.goblin-colosseum.xyz/) - **C++, SDL3, UNIX Socket Programming, Winsock, TCP, UDP**
 
 *Additional information about projects marked with "\*" available upon request.*
 
