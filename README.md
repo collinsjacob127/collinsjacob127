@@ -1,6 +1,6 @@
 # Jacob Collins
 - Interests: **High-Performance Computing, Network Science, Machine Learning, Quantum Computing, Data Science**
-- Education: MS Student in Computer Science at CSU Chico
+- Education: MS Computer Science Student at California State University, Chico. Expected graduation Spring '27.
 - Languages: **C/C++, Python, MPI, OpenMP, CUDA, OpenCV**, Bash, R, HLSL, PyTorch 
 
 ## Projects:
