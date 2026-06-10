@@ -1,9 +1,10 @@
 # Jacob Collins
-- Interests: **High-Performance Computing, Network Science, Quantum Computing, Data Science**
-- Education: Fourth year of my CSCI undergrad at CSU Chico
-- Languages: **C/C++, Python, MPI, OpenMP, R,** Bash, OpenCV, PyTorch, SDL3 
+- Interests: **High-Performance Computing, Network Science, Machine Learning, Quantum Computing, Data Science**
+- Education: MS Student in Computer Science at CSU Chico
+- Languages: **C/C++, Python, MPI, OpenMP, CUDA, OpenCV**, Bash, R, HLSL, PyTorch 
 
 ## Projects:
+   - Real-Time Detection & Tracking of Multiple Objects\* - **C++, CUDA, OpenCV**
    - HPC Sieve of Eratosthenes\* - **C, OpenMP + MPI**
    - K-Means with K-D Trees\* - **C++**
    - [Iterative Prisoner's Dilemma Simulation](https://github.com/collinsjacob127/IterativePrisonersDilemma) - **Python**
@@ -15,7 +16,7 @@
 *Additional information about projects marked with "\*" available upon request.*
 
 ## Contact Me
-I'm always open to collaboration, feel free to reach out any time!
+I'm quite open to collaboration, feel free to reach out any time!
 
 You can reach me at jbcollins@csuchico.edu
 
